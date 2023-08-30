@@ -1,0 +1,132 @@
+h1{
+    margin-bottom: 0px;
+    font-size: 562.5%;
+    color: #66BFBF;
+    font-family: 'sofia',sans-serif;   
+}
+p{
+    font-size: 20px;
+}
+.s{
+    word-spacing: 10px;
+    letter-spacing:-1px ;
+    word-wrap: break-word;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 50px;
+    text-align: left;
+}
+.container{
+    background-color: #e4f9f5;
+}
+div.heading{
+    position:relative;
+    padding-top: 70px;
+    color: aquamarine;
+    height: 700px;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+body{
+    margin: 0%;
+    text-align: center;
+    font-family: 'Alegreya';
+    padding: 0%;
+    color: #40514e;
+}
+h2{
+    font-family:Montserrat;
+    color: #66BFBF;
+    font-size: 50px
+}
+h3{
+    font-family:Montserrat;
+    color:  #11999E;
+}
+.b{
+    text-decoration: underline;
+    font-weight: normal;
+}
+.c{
+    font-style: italic;
+    font-size: 2.5rem;
+    margin-top:0;
+}
+.right{
+    position: absolute;
+    right:50px;
+    top:100px;
+}
+.left{
+    position: absolute;
+    left: 30px;
+    /* bottom: 20px; */
+    top: 280px;
+}
+/* .mountain{
+    position: absolute;
+    bottom: 0;
+    left: 170px;
+} */
+.deep{
+    width: 300px;
+    padding-top: 50px;
+}
+.winner{
+    width: 200px;
+}
+.footer-link{
+    color:  #11999E;
+    margin:0 50px 0;
+    text-decoration: none;
+    font-size: 20px;
+}
+.hobby{
+    float:right;
+    clear: left;
+    padding-left: 50px;
+}
+.winner{
+    float:left;    
+    padding-right: 50px;
+}
+.widths{
+    display: inline-block;
+    width: 500px;
+}
+hr{
+    width: 8%;
+    border-style: dotted;
+    border-width: 8px 0 0 0;
+    border-color: grey;
+}
+.bottom-container{
+    padding-top: 50px;
+    background-color: #66BFBF;
+    margin-top: 50px;
+    margin-bottom: 0;
+    position: absolute;
+    width: 100%;
+    padding-bottom: 50px;
+}
+.copyright{
+    font-size:15px;
+    color:#e4f9f5;
+}
+.BUTTON_BOM {
+    margin: 40px auto 40px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-family: Helvetica;
+    font-size: 37px;
+    font-weight: 100;
+    padding: 10px;
+    background-color: #11999E;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
